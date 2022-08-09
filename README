@@ -1,0 +1,14 @@
+1. We have initDegreeYearTotal function, which prints out:
+   Total of graduates in every country for each degree.
+2. We have initCountryCodes function, which prints out:
+   The simple but useful record of countries in data set and their associated code.
+3. We have initDegreePercentages function, which prints out:
+   The graduate percantage in all degrees for each country.
+4. We have initFemaleGraduations function, which prints out:
+   All female percantage in all degrees for each year for females
+5. We have initYearPercentages function, which prints out:
+   Total of graduates in every country for each degree.
+
+Also we have initData function which stores the data in linked list.
+
+To run the program enter "make" or "make all" inside project folder; Then run the program by entering: "./program".
